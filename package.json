@@ -4,6 +4,7 @@
   "description": "node project",
   "main": "app.js",
   "dependencies": {
+<<<<<<< HEAD
     "ejs": "^2.6.1",
     "exceljs": "^1.6.3",
     "express": "^4.16.4",
@@ -11,6 +12,9 @@
     "ngx-ssrs-reportviewer": "^1.0.2",
     "nodemailer": "^4.7.0",
     "xlsx": "^0.14.1"
+=======
+    "express": "^4.16.4"
+>>>>>>> parent of 84e4675... up
   },
   "devDependencies": {},
   "scripts": {
