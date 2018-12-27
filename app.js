@@ -252,8 +252,14 @@ console.log('hey your, now listening port 3000');
 
 
 //TEMPLATE ENGINES
+<<<<<<< HEAD
 /*var express = require('express');
 var app = express();
+=======
+var express = require('express');
+var app = express();
+
+>>>>>>> 84e4675a6c71d063a2bf9cf599bd61289091e0ac
 app.set('View engine', 'ejs');
 
 app.get('/', function(req, res){
@@ -264,6 +270,7 @@ app.get('/contact', function(req, res){
   res.sendFile(__dirname +'/contact.html');
 });
 
+<<<<<<< HEAD
 app.get('/profile/:name', function(req, res){
   //res.send('you requested to see a profile with the name of '+ req.params.name);
   var data = {age: 26, job: 'Developer', hobbies: ['eating', 'drinking', 'fishing', 'playing']};
@@ -312,5 +319,9 @@ app.get('/profile/:name', function(req, res){
   //res.send('you requested to see a profile with the name of '+ req.params.name);
   var data = {age: 26, job: 'Developer', hobbies: ['eating', 'drinking', 'fishing', 'playing']};
   res.render('profile.ejs', { person: req.params.name, data: data });
+=======
+app.get('/profile/:id', function(req, res){
+  res.send('you requested to see a profile with the id of '+ req.params.id);
+>>>>>>> 84e4675a6c71d063a2bf9cf599bd61289091e0ac
 });
 app.listen(3000);

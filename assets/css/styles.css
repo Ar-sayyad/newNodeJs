@@ -1,10 +1,20 @@
+<<<<<<< HEAD
+=======
+.canvasjs-chart-credit {
+    display: none;
+}
+>>>>>>> 84e4675a6c71d063a2bf9cf599bd61289091e0ac
 .card-body {
     -ms-flex: 1 1 auto;
     flex: 1 1 auto;
     padding: 1.25rem;
     overflow: auto;
 }
+<<<<<<< HEAD
 .cardpadding{
+=======
+.cardpadding{   
+>>>>>>> 84e4675a6c71d063a2bf9cf599bd61289091e0ac
     padding-top: 20px;
     padding-bottom: 20px;
 }
@@ -112,7 +122,11 @@ input[type=checkbox]:checked ~ label{
 body::-webkit-scrollbar,.chartDiv::-webkit-scrollbar,.style-1::-webkit-scrollbar,#style-1::-webkit-scrollbar,#style-2::-webkit-scrollbar,#style-3::-webkit-scrollbar,.content-wrapper::-webkit-scrollbar {
     width: 6px;
     background-color: #F5F5F5;
+<<<<<<< HEAD
 }
+=======
+} 
+>>>>>>> 84e4675a6c71d063a2bf9cf599bd61289091e0ac
 body::-webkit-scrollbar-thumb{
     background-color: #008cffc2;
 }
@@ -144,7 +158,11 @@ body::-webkit-scrollbar-track,.chartDiv::-webkit-scrollbar-track,.style-1::-webk
 #attributesTable::-webkit-scrollbar {
     width: 6px;
     background-color: #F5F5F5;
+<<<<<<< HEAD
 }
+=======
+} 
+>>>>>>> 84e4675a6c71d063a2bf9cf599bd61289091e0ac
 #attributesTable::-webkit-scrollbar-thumb{
     background-color: #008cffc2;
 }
@@ -171,7 +189,11 @@ body::-webkit-scrollbar-track,.chartDiv::-webkit-scrollbar-track,.style-1::-webk
    text-align: center;
     width: 30%;
     float: left;
+<<<<<<< HEAD
     margin-top: 2%;
+=======
+    margin-top: 2%; 
+>>>>>>> 84e4675a6c71d063a2bf9cf599bd61289091e0ac
 }
 .slect40{
     text-align: center;
@@ -218,7 +240,11 @@ body::-webkit-scrollbar-track,.chartDiv::-webkit-scrollbar-track,.style-1::-webk
     height: 450px;
 }
 .AtName{
+<<<<<<< HEAD
 
+=======
+    
+>>>>>>> 84e4675a6c71d063a2bf9cf599bd61289091e0ac
 }
 .AtVal{
     border: 1px solid #f8f9fa;
@@ -351,4 +377,8 @@ body::-webkit-scrollbar-track,.chartDiv::-webkit-scrollbar-track,.style-1::-webk
 .addcellcls{
         height: 134px;
         padding-top: 8%;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 84e4675a6c71d063a2bf9cf599bd61289091e0ac
